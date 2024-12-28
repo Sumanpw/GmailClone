@@ -58,7 +58,7 @@ const Navbar = () => {
 
       {user ? (
         <>
-          <div className="w-[50%] mr-60">
+          <div className="w-[46%] mr-60">
             <div className="flex items-center bg-[#EAF1FB] px-2 py-2 rounded-full">
               <CiSearch size={"24px"} />
               <input
